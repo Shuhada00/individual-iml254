@@ -1,0 +1,27 @@
+<style>
+
+body {
+    background: url('image/green.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: Garamond, serif;
+    color: #304150;
+    line-height: 1.6;
+    text-align: center;
+}
+
+.nav-table {
+    margin: 0 auto; /* Center the table horizontally */
+}
+
+.nav-table img {
+    width: 100%; /* Larger navigation icons */
+    transition: transform 0.3s ease;
+}
+
+.nav-table img:hover {
+    transform: scale(1.1);
+}
+
+h1, h2, h3, p, td {font-family: garamond; color: #304150;}
+
+</style

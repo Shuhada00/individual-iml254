@@ -1,0 +1,35 @@
+<style>
+body {background-image: url("image/lilac.jpg"); margin: 0; padding: 0; 
+font-family: Garamond; color: #1a1347;}
+
+a {color: #ee6983v;}
+
+h2, p {font-size: 30px; text-align: center;}
+h1 {font-size: 40px; text-align: center;}
+h3 {font-size: 30px;}
+
+table {width: 80%; text-align: center;}
+table.center {margin-right: auto; margin-left: auto;}
+td {font-size: 20px;}
+
+h1, h2, h3, p, td {font-family: garamond; color: #1a1347;}
+
+footer {font-size: 20px;}
+
+.cosplay-image {border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);}
+.cosplay-image img:hover {transform: scale(1.1);}
+
+.nav-table {
+    margin: 0 auto; /* Center the table horizontally */
+}
+
+.nav-table img {
+    width: 100%; /* Larger navigation icons */
+    transition: transform 0.3s ease;
+}
+
+.nav-table img:hover {
+    transform: scale(1.1);
+}
+
+</style>

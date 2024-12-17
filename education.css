@@ -1,0 +1,18 @@
+<style>
+
+.nav-table {
+    margin: 0 auto; /* Center the table horizontally */
+}
+
+.nav-table img {
+    width: 100%; /* Larger navigation icons */
+    transition: transform 0.3s ease;
+}
+
+.nav-table img:hover {
+    transform: scale(1.1);
+}
+
+h1, h2, h3, p, td {font-family: garamond; color: #74341c;}
+
+</style
